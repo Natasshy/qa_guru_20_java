@@ -1,6 +1,6 @@
 package guru.qa;
 
-import static java.lang.Double.MAX_VALUE;
+
 
 public class Main {
     public static void main(String[] args) {
